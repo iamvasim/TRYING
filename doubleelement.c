@@ -3,6 +3,7 @@ is n+1. one element is occuring more then once i.e duplicate number is
 present . find the duplicate element.
 */
 #include<stdio.h>
-int main(){
+int main(){hghg
+           jkjk
     int arr[]={}
 }
